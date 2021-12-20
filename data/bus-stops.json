@@ -32810,6 +32810,20 @@
       "Longitude": 103.92314916696681
     },
     {
+      "BusStopCode": "84651",
+      "RoadName": "Bedok Nth St 1",
+      "Description": "Aft Heartbeat @ Bedok",
+      "Latitude": 1.327057,
+      "Longitude": 103.930691
+    },
+    {
+      "BusStopCode": "84659",
+      "RoadName": "Bedok Nth St 1",
+      "Description": "Bef Heartbeat @ Bedok",
+      "Latitude": 1.327201,
+      "Longitude": 103.93063
+    },
+    {
       "BusStopCode": "84661",
       "RoadName": "Bedok Sth Ave 3",
       "Description": "Blk 172",
